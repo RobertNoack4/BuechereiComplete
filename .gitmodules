@@ -1,3 +1,7 @@
 [submodule "Buecherei.UnitTests"]
 	path = Buecherei.UnitTests
 	url = https://github.com/RobertNoack4/Buecherei2Test
+
+[submodule "Buecherei"]
+	path = Buecherei2
+	url = https://github.com/RobertNoack4/Buecherei2
